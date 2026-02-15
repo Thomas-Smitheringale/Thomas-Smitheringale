@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Smitheringale</h1>
-- 🌱 I’m currently learning **T-level digital production, design and development**
+- 🌱 I’m currently learning Games Programming
 
 - 📫 How to reach me **thomassmitheringale24@gmail.com**
 
